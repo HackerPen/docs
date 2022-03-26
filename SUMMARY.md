@@ -11,7 +11,6 @@
   * [pair up for interview](features/schedule-interviews/pair-up-for-interview.md)
   * [cancel interview](features/schedule-interviews/cancel-interview.md)
 * [Coding pad](features/coding-pad/README.md)
-  * [Page 1](features/coding-pad/page-1.md)
   * [write code](features/coding-pad/write-code.md)
   * [compile code](features/coding-pad/compile-code.md)
   * [import coding question](features/coding-pad/import-coding-question.md)
