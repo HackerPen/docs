@@ -15,7 +15,7 @@
   * [get interviewed](features/schedule-interviews/get-interviewed.md)
   * [give interviews](features/schedule-interviews/give-interviews.md)
 * [Interview feedback](features/interview-feedback.md)
-* [Page 1](features/page-1.md)
+* [Media](features/media.md)
 
 ## Use Cases
 
