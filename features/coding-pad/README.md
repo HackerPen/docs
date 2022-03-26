@@ -1,17 +1,11 @@
-# Creating your first project
+# Coding pad
 
 {% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Good to know:** HackerPen uses many open-sourced tools to build the coding pad. We used a [React-based ACE editor](https://github.com/securingsincity/react-ace) for coding, and [a React-based markdown editor](https://github.com/uiwjs/react-md-editor) for displaying questions and solutions.
 {% endhint %}
 
 ## The basics
 
-Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
-
-
+One core component of the HackerPen session is its coding pad. Let's walk through how the user interface works.
 
 {% embed url="https://www.loom.com/share/84d0f6d7f22e4339a3f78acb29157a49?sharedAppSource=personal_library" %}
-
-## Creating a project
-
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
