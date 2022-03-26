@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/hackerpen-linkedin-banner.jpeg
+coverY: 0
+---
+
 # What is HackerPen?
 
 {% hint style="info" %}
