@@ -10,6 +10,7 @@
 * [Drawing pad](features/drawing-pad/README.md)
   * [system design drawing](features/drawing-pad/system-design-drawing.md)
 * [Schedule interviews](features/schedule-interviews/README.md)
+  * [instant interview](features/schedule-interviews/instant-interview.md)
   * [pair up for interview](features/schedule-interviews/pair-up-for-interview.md)
   * [get interviewed](features/schedule-interviews/get-interviewed.md)
   * [give interviews](features/schedule-interviews/give-interviews.md)
