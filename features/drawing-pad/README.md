@@ -1,5 +1,11 @@
-# Creating your first task
+# Drawing pad
 
 {% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Good to know:** the drawing pad is built on top of a popular open-sourced drawing library Excalidraw ([https://github.com/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw))
 {% endhint %}
+
+## Basics
+
+HackerPen comes with a drawing pad with customized assets for system design.
+
+{% embed url="https://www.loom.com/share/a5e8a2654a7d46768e751dbd82628d2f?sharedAppSource=personal_library" %}
