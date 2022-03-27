@@ -1,7 +1,5 @@
-# Schedule interviews
+# Advanced permissions
 
-## Basics
-
-Scheduling interviews with others is one core feature that HackerPen has to offer. The goal is to make scheduling flexible for both interviewers, interviewees.
-
-You can schedule a single interview playing a role of either interviewer or interviewee. Alternatively, we can schedule pair interviews with others, giving and receiving an interview at the same time.
+{% hint style="info" %}
+**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+{% endhint %}
