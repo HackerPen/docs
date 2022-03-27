@@ -10,6 +10,10 @@
   * [instant interview](features/schedule-interviews/instant-interview.md)
   * [pair up for interview](features/schedule-interviews/pair-up-for-interview.md)
   * [cancel interview](features/schedule-interviews/cancel-interview.md)
+* [Review interviews](features/review-interviews/README.md)
+  * [give feedback](features/review-interviews/give-feedback.md)
+  * [review feedback](features/review-interviews/review-feedback.md)
+  * [mark interview absence](features/review-interviews/mark-interview-absence.md)
 * [Coding pad](features/coding-pad/README.md)
   * [write code](features/coding-pad/write-code.md)
   * [compile code](features/coding-pad/compile-code.md)
@@ -25,10 +29,6 @@
   * [start video call](features/media/start-video-call.md)
   * [end video chat](features/media/end-video-chat.md)
   * [in session chat](features/media/in-session-chat.md)
-* [Review interviews](features/review-interviews/README.md)
-  * [give feedback](features/review-interviews/give-feedback.md)
-  * [review feedback](features/review-interviews/review-feedback.md)
-  * [mark interview absence](features/review-interviews/mark-interview-absence.md)
 
 ## Use Cases
 
