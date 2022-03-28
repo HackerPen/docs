@@ -16,7 +16,6 @@
   * [mark interview absence](features/review-interviews/mark-interview-absence.md)
 * [Coding pad](features/coding-pad/README.md)
   * [write code](features/coding-pad/write-code.md)
-  * [compile code](features/coding-pad/compile-code.md)
   * [import coding question](features/coding-pad/import-coding-question.md)
   * [add your own question](features/coding-pad/add-your-own-question.md)
 * [Drawing pad](features/drawing-pad/README.md)
