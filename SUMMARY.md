@@ -26,9 +26,8 @@
   * [change styles](features/drawing-pad/change-styles.md)
   * [type text](features/drawing-pad/type-text.md)
 * [Media](features/media/README.md)
-  * [start video call](features/media/start-video-call.md)
-  * [end video chat](features/media/end-video-chat.md)
-  * [in session chat](features/media/in-session-chat.md)
+  * [video / audio call](features/media/video-audio-call.md)
+  * [chat messaging](features/media/chat-messaging.md)
 
 ## Use Cases
 
