@@ -54,3 +54,7 @@ How different types of customers can use HackerPen
 {% content-ref url="use-cases/for-organizations/" %}
 [for-organizations](use-cases/for-organizations/)
 {% endcontent-ref %}
+
+{% hint style="warning" %}
+**Have feedback?** Feel free to [submit your thoughts on Github](https://github.com/HackerPen/feedback/issues/new/choose), or reach out to us at contact@hackerpen.io
+{% endhint %}
