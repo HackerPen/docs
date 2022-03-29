@@ -43,20 +43,14 @@ Follow our handy guides to get started on different key features
 [media](features/media/)
 {% endcontent-ref %}
 
-###
+### Use Cases
 
-### Fundamentals: Dive a little deeper
+How different types of customers can use HackerPen
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="use-cases/for-individuals.md" %}
+[for-individuals.md](use-cases/for-individuals.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="use-cases/for-organizations/" %}
+[for-organizations](use-cases/for-organizations/)
 {% endcontent-ref %}

@@ -31,4 +31,4 @@
 ## Use Cases
 
 * [For Individuals](use-cases/for-individuals.md)
-* [For organizations](use-cases/for-organizations.md)
+* [For organizations](use-cases/for-organizations/README.md)
