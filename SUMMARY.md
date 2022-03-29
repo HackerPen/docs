@@ -31,5 +31,4 @@
 ## Use Cases
 
 * [For Individuals](use-cases/for-individuals.md)
-* [For organizations](use-cases/for-organizations/README.md)
-  * [Figma Integration](use-cases/for-organizations/figma-integration.md)
+* [For organizations](use-cases/for-organizations.md)

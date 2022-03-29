@@ -1,7 +1,7 @@
 # For Individuals
 
 {% hint style="info" %}
-Do you have any feedback? Feel free to [submit your thoughts on Github](https://github.com/HackerPen/feedback/issues/new/choose), or reach out to us at contact@hackerpen.io
+**Do you have any feedback?** Feel free to [submit your thoughts on Github](https://github.com/HackerPen/feedback/issues/new/choose), or reach out to us at contact@hackerpen.io
 {% endhint %}
 
 Individuals can use HackerPen for mock and actual technical interviews.&#x20;
