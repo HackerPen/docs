@@ -30,7 +30,6 @@
 
 ## Use Cases
 
-* [For Schools](use-cases/for-schools/README.md)
-  * [Figma Integration](use-cases/for-schools/figma-integration.md)
-* [For Individuals](use-cases/for-individuals/README.md)
-  * [GitHub Integration](use-cases/for-individuals/github-integration.md)
+* [For Individuals](use-cases/for-individuals.md)
+* [For organizations](use-cases/for-organizations/README.md)
+  * [Figma Integration](use-cases/for-organizations/figma-integration.md)
