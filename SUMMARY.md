@@ -34,10 +34,3 @@
   * [Figma Integration](use-cases/for-schools/figma-integration.md)
 * [For Individuals](use-cases/for-individuals/README.md)
   * [GitHub Integration](use-cases/for-individuals/github-integration.md)
-
-## components
-
-* [Introduction](components/introduction.md)
-* [Real time communication](components/real-time-communication.md)
-* [Cloud runtime](components/cloud-runtime.md)
-* [Question bank](components/question-bank.md)

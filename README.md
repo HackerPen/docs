@@ -27,6 +27,10 @@ Follow our handy guides to get started on different key features
 [schedule-interviews](features/schedule-interviews/)
 {% endcontent-ref %}
 
+{% content-ref url="features/review-interviews/" %}
+[review-interviews](features/review-interviews/)
+{% endcontent-ref %}
+
 {% content-ref url="features/coding-pad/" %}
 [coding-pad](features/coding-pad/)
 {% endcontent-ref %}
@@ -35,22 +39,24 @@ Follow our handy guides to get started on different key features
 [drawing-pad](features/drawing-pad/)
 {% endcontent-ref %}
 
-{% content-ref url="features/review-interviews/" %}
-[review-interviews](features/review-interviews/)
+{% content-ref url="features/media/" %}
+[media](features/media/)
 {% endcontent-ref %}
+
+###
 
 ### Fundamentals: Dive a little deeper
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="components/real-time-communication.md" %}
-[real-time-communication.md](components/real-time-communication.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="components/cloud-runtime.md" %}
-[cloud-runtime.md](components/cloud-runtime.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="components/question-bank.md" %}
-[question-bank.md](components/question-bank.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
